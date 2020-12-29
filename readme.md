@@ -10,4 +10,4 @@ Requires pdfminer3k and Pillow packages as detailed in the requirements.txt file
 
 Outputs .csv files in the same directory as the input (.pdf) file.
 
-Funded by the British Academy as part of the NHSSpend project. 
+Funded by the British Academy as part of the [NHSSpend](https://github.com/crahal/NHSSpend) project. 
