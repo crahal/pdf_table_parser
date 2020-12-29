@@ -514,8 +514,6 @@ def parse():
 	pdf_pathname = os.path.join(data_path,  'BD-CCG-invoices-over-30k-April-2014-March-2015.pdf')
 
 	parser = PdfTableParser(pdf_pathname)
-	parser.get_page_layouts()
-	parser.parse_layouts()
 	parser.save_output()
 
 
