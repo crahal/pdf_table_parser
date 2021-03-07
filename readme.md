@@ -1,6 +1,6 @@
 # pdf_table_parser
 
-[![Generic badge](https://img.shields.io/badge/Python-3.7-<red>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/License-MIT-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/BuildPassing-Yes-red.svg)](https://shields.io/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4587765.svg)](https://doi.org/10.5281/zenodo.4587765) [![Generic badge](https://img.shields.io/badge/Python-3.7-<red>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/License-MIT-purple.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/BuildPassing-Yes-red.svg)](https://shields.io/)
 
 ---
 
